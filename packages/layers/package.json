@@ -40,7 +40,7 @@
     "tiny-invariant": "^1.0.6"
   },
   "devDependencies": {
-    "@babel/core": "^7.7.4",
+    "@babel/core": "^8.0.9",
     "@svgr/rollup": "^4.3.3"
   },
   "peerDependencies": {
